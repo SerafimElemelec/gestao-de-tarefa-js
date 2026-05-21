@@ -78,9 +78,10 @@ Este projeto tem como objetivo demonstrar competências em:
 - Estruturação de projetos reais
 
 
-## Capturas de Ecrã
+## Captura de Ecrã
 
-> (Adicione aqui screenshots do projeto)
+> <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/e7e71a24-f976-463a-a13d-c579eb07f004" />
+
 
 
 ## Como executar localmente
