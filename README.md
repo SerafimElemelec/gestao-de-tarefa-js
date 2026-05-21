@@ -56,7 +56,7 @@ O projeto inclui uma identidade visual personalizada da marca **EloTec**, com:
 
 ---
 
-## 📱 Responsividade
+## Responsividade
 
 O sistema foi desenvolvido com abordagem **mobile-first**, garantindo compatibilidade com:
 
